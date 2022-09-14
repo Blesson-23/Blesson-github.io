@@ -149,6 +149,11 @@ header .container a {
   filter: brightness(1.2);
 }
 
+.myren-meaning {
+    font-family:verdana; 
+    color: green;
+}
+
 .about {
   height: 100%;
 }
